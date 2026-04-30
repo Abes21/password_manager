@@ -15,12 +15,6 @@ else:
 
 
 
-
-
-
-
-
-
 # password = hashlib.sha256(input("podaj haslo: ").encode()).hexdigest()
 # with open("passwords.txt", "a") as f:
 #   f.write(password+"\n")
